@@ -39,6 +39,7 @@ public:
         } data;
     };
     EarleyParser();
+    ~EarleyParser();
 
     //input
     void setGrammar(Grammar* parserGrammar);

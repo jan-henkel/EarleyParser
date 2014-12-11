@@ -1,5 +1,6 @@
 #include "earleyparsermainwindow.h"
 #include "ui_earleyparsermainwindow.h"
+#include "earleyparser.h"
 
 EarleyParserMainWindow::EarleyParserMainWindow(QWidget *parent) :
     QMainWindow(parent),
